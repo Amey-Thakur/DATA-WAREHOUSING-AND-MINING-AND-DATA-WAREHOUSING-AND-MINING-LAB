@@ -6,7 +6,7 @@
   - DWM [Assignment - 1](https://github.com/Amey-Thakur/DATA-WAREHOUSING-AND-MINING-AND-DATA-WAREHOUSING-AND-MINING-LAB/blob/main/Assignments/Amey_B-50_DWM_Assignment-1.pdf)
   - DWM [Assignment - 2](https://github.com/Amey-Thakur/DATA-WAREHOUSING-AND-MINING-AND-DATA-WAREHOUSING-AND-MINING-LAB/blob/main/Assignments/Amey_B-50_DWM_Assignment-2.pdf)
 
-# Experiments
+## Experiments
 
   >Data Warehousing & Mining Lab
 
