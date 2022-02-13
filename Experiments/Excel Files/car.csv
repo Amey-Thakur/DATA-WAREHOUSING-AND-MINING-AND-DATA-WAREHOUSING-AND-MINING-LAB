@@ -1,0 +1,21 @@
+﻿Type,Color,Fuel ,Economic
+Subcompact,Red,Petrol,Yes
+Compact,Black,Diesel,Yes
+Compact,Silver,Petrol,Yes
+Luxury,Red,Electric,No
+Subcompact,Silver,CNG,Yes
+Luxury,Red,Petrol,No
+Sedan,Silver,Electric,No
+Sedan,Black,Diesel,Yes
+Subcompact,Black,Electric,Yes
+Compact,Red,CNG,Yes
+Sedan,Silver,Petrol,Yes
+Luxury,Red,Diesel,No
+Luxury,Silver,Electric,No
+Sedan,Black,CNG,Yes
+Compact,Black,Diesel,Yes
+Compact,Red,Electric,No
+Subcompact,Black,Petrol,Yes
+Luxury,Silver,CNG,No
+Sedan,Red,Diesel,Yes
+Sedan,Silver,Electric,No
