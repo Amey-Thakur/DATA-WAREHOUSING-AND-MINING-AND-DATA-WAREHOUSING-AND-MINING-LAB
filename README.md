@@ -42,4 +42,3 @@
 
 ## Question Papers
  - [Previous Question Papers](https://github.com/Amey-Thakur/DATA-WAREHOUSING-AND-MINING-AND-DATA-WAREHOUSING-AND-MINING-LAB/tree/main/Question%20Papers)
-
