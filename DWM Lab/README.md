@@ -3,7 +3,7 @@
      ========================================================================================= -->
 <div align="center">
 
-  # DWM Lab
+  # Data Warehousing and Mining Lab
 
   ### CSL603 · Semester VI · Computer Engineering
 
@@ -224,7 +224,7 @@ Advanced data mining techniques and visualization.
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#dwm-lab)**
+  **[↑ Back to Top](#data-warehousing-and-mining-lab)**
 
   **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-data-warehousing-introduction)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-star--snowflake-schemas)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-olap-operations)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-data-preprocessing)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-decision-tree-classification)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-naive-bayes-classification)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-k-means-clustering)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-hierarchical-clustering)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-apriori-algorithm)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-advanced-data-mining)**
 
