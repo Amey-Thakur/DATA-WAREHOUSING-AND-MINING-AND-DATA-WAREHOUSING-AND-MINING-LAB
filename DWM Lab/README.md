@@ -81,14 +81,17 @@ Sample datasets for data mining experiments:
 <!-- =========================================================================================
                                      EXPERIMENT 1
      ========================================================================================= -->
-## Experiment 1: Data Warehousing Introduction
+## Experiment 1: Star Schema for E-Commerce Data Warehouse
 
-Introduction to Data Warehousing concepts and architecture.
+Design a Data Warehouse for an e-commerce website using Star Schema and perform analytical processing.
 
-| # | Document | Description | Link |
+**Date:** February 02, 2021
+
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_DWM_Lab_Experiment-1.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_DWM_Lab_Experiment-1.docx) |
+| 1 | Star_Schema_ECommerce.sql | SQL implementation of Star Schema with SALES fact table and dimensions | [View](Experiment-1/Star_Schema_ECommerce.sql) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-1/Amey_B-50_DWM_Lab_Experiment-1.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-1/Amey_B-50_DWM_Lab_Experiment-1.docx) |
 
 ---
 

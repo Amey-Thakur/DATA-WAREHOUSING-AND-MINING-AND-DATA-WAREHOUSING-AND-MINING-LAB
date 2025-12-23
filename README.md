@@ -124,18 +124,18 @@ The laboratory component (CSL603) focuses on hands-on implementation of data min
 > [!TIP]
 > **Lab Concept**: Data mining experiments often require understanding of preprocessing steps before applying algorithms. When using WEKA, always ensure your dataset is properly formatted (ARFF) and preprocessed for optimal results.
 
-| # | Experiment | Report |
-|:-:|:---|:-:|
-| 1 | Introduction to Data Warehousing concepts and architecture | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-1.pdf) |
-| 2 | Creating and querying Star and Snowflake schemas | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-2.pdf) |
-| 3 | Implementing OLAP operations (Roll-up, Drill-down, Slice, Dice) | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-3.pdf) |
-| 4 | Data preprocessing techniques using WEKA | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-4.pdf) |
-| 5 | Classification using Decision Tree algorithm | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-5.pdf) |
-| 6 | Classification using Naive Bayes algorithm | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-6.pdf) |
-| 7 | Clustering using K-Means algorithm | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-7.pdf) |
-| 8 | Hierarchical clustering techniques | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-8.pdf) |
-| 9 | Association rule mining using Apriori algorithm | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-9.pdf) |
-| 10 | Advanced data mining techniques and visualization | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-10.pdf) |
+| # | Experiment | Date | Report |
+|:-:|:---|:---:|:-:|
+| 1 | Star Schema for E-Commerce Data Warehouse | February 02, 2021 | [View](DWM%20Lab/Experiment-1/Amey_B-50_DWM_Lab_Experiment-1.pdf) |
+| 2 | Creating and querying Star and Snowflake schemas | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-2.pdf) |
+| 3 | Implementing OLAP operations (Roll-up, Drill-down, Slice, Dice) | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-3.pdf) |
+| 4 | Data preprocessing techniques using WEKA | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-4.pdf) |
+| 5 | Classification using Decision Tree algorithm | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-5.pdf) |
+| 6 | Classification using Naive Bayes algorithm | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-6.pdf) |
+| 7 | Clustering using K-Means algorithm | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-7.pdf) |
+| 8 | Hierarchical clustering techniques | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-8.pdf) |
+| 9 | Association rule mining using Apriori algorithm | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-9.pdf) |
+| 10 | Advanced data mining techniques and visualization | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-10.pdf) |
 
 ---
 
