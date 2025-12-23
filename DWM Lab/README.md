@@ -98,14 +98,17 @@ Design a Data Warehouse for an e-commerce website using Star Schema and perform 
 <!-- =========================================================================================
                                      EXPERIMENT 2
      ========================================================================================= -->
-## Experiment 2: Star & Snowflake Schemas
+## Experiment 2: Dimension Tables and Fact Table Implementation
 
-Creating and querying Star and Snowflake schemas.
+Implementation of all dimension tables and fact tables related to the e-commerce case study.
 
-| # | Document | Description | Link |
+**Date:** February 02, 2021
+
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_DWM_Lab_Experiment-2.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_DWM_Lab_Experiment-2.docx) |
+| 1 | Dimension_Fact_Tables.sql | SQL implementation of CUSTOMER, PRODUCT, STORE, SALESPERSON dimensions and PRODUCTSALES fact table | [View](Experiment-2/Dimension_Fact_Tables.sql) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-2/Amey_B-50_DWM_Lab_Experiment-2.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-2/Amey_B-50_DWM_Lab_Experiment-2.docx) |
 
 ---
 

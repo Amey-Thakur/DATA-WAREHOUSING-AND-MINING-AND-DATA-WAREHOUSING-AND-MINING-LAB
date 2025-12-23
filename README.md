@@ -127,7 +127,7 @@ The laboratory component (CSL603) focuses on hands-on implementation of data min
 | # | Experiment | Date | Report |
 |:-:|:---|:---:|:-:|
 | 1 | Star Schema for E-Commerce Data Warehouse | February 02, 2021 | [View](DWM%20Lab/Experiment-1/Amey_B-50_DWM_Lab_Experiment-1.pdf) |
-| 2 | Creating and querying Star and Snowflake schemas | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-2.pdf) |
+| 2 | Dimension Tables and Fact Table Implementation | February 02, 2021 | [View](DWM%20Lab/Experiment-2/Amey_B-50_DWM_Lab_Experiment-2.pdf) |
 | 3 | Implementing OLAP operations (Roll-up, Drill-down, Slice, Dice) | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-3.pdf) |
 | 4 | Data preprocessing techniques using WEKA | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-4.pdf) |
 | 5 | Classification using Decision Tree algorithm | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-5.pdf) |
