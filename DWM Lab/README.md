@@ -115,14 +115,17 @@ Implementation of all dimension tables and fact tables related to the e-commerce
 <!-- =========================================================================================
                                      EXPERIMENT 3
      ========================================================================================= -->
-## Experiment 3: OLAP Operations
+## Experiment 3: OLAP Operations Implementation
 
-Implementing OLAP operations (Roll-up, Drill-down, Slice, Dice, Pivot).
+Implementation of OLAP operations (Roll-up, Drill-down, Slice, Dice) in SQL Environment.
 
-| # | Document | Description | Link |
+**Date:** March 23, 2021
+
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_DWM_Lab_Experiment-3.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_DWM_Lab_Experiment-3.docx) |
+| 1 | OLAP_Operations.sql | SQL implementation of OLAP operations with 8 sample records | [View](Experiment-3/OLAP_Operations.sql) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-3/Amey_B-50_DWM_Lab_Experiment-3.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-3/Amey_B-50_DWM_Lab_Experiment-3.docx) |
 
 ---
 
