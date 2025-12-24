@@ -268,8 +268,8 @@ Internal assessment evaluations conducted during the course:
 | # | Resource | Description | Marks |
 |:-:|:---|:---|:---:|
 | 1 | [Question Paper](Internal%20Assessment%20Test/58DWM%20Q.6%20Descriptive%20questions.pdf) | DWM Internal Assessment Test 1 Question Paper | — |
-| 2 | [MCQ](Internal%20Assessment%20Test/DWM-MCQ.png) | DWM Internal Assessment Test 1 MCQ | — |
-| 3 | [Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_DWM_IAT-1.pdf) | DWM Internal Assessment Test 1 Answer Sheet | — |
+| 2 | [Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_DWM_IAT-1.pdf) | DWM Internal Assessment Test 1 Answer Sheet | — |
+| 3 | [MCQ](Internal%20Assessment%20Test/DWM-MCQ.png) | DWM Internal Assessment Test 1 MCQ | — |
 
 ### IAT - 2
 
