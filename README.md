@@ -302,7 +302,7 @@ Final semester examination submission:
      ========================================================================================= -->
 ## Question Papers
 
-Archive of previous examination papers for practice and reference:
+Previous year university question papers:
 
 | # | Exam Session | Syllabus | Resource |
 |:-:|:---|:---:|:---:|
