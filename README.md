@@ -277,23 +277,23 @@ Internal assessment evaluations conducted during the course:
      ========================================================================================= -->
 ## Semester Exam
 
-> [!NOTE]
-> **COVID-19 Impact**: Due to the pandemic, Semester VI examinations were conducted in an alternative format with modified assessment patterns.
+> [!IMPORTANT]
+> **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic. All examinations and assessments were conducted in a digital format.
 
-Final semester examination materials:
+Final semester examination submission:
+
+| # | Resource | Description | Date |
+|:-:|:---|:---|:---:|
+| 1 | [MCQ](Semester%20Exam/MCQ_TE-B.pdf) | DWM Semester Exam MCQ Paper | — |
+| 2 | [Question 2](Semester%20Exam/Q2_61021145_DWM.pdf) | DWM Semester Exam Answer Sheet | — |
+| 3 | [Question 3](Semester%20Exam/Q3_61021145_DWM.pdf) | DWM Semester Exam Answer Sheet | — |
+
+**Additional Resources:**
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [Question 2 Answer Sheet](Semester%20Exam/Q2_61021145_DWM.pdf) | Semester exam Q2 response |
-| 2 | [Question 3 Answer Sheet](Semester%20Exam/Q3_61021145_DWM.pdf) | Semester exam Q3 response |
-
-### Additional Resources
-
-| # | Resource | Description |
-|:-:|:---|:---|
-| 1 | [DWM Question Paper](Semester%20Exam/DWM.pdf) | Semester exam question paper |
-| 2 | [MCQ Paper](Semester%20Exam/MCQ_TE-B.pdf) | MCQ section of the exam |
-| 3 | [Submission Report](Semester%20Exam/Amey_B-50_SE_DWM_Submission_Report.docx) | Final coursework submission report |
+| 1 | [Answer Sheet Template](Semester%20Exam/DWM.pdf) | Semester Exam Answer Sheet Template |
+| 2 | [DWM Questions](Semester%20Exam/DWM_QUESTIONS.docx) | DWM Exam Questions Document |
 
 ---
 
