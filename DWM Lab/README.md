@@ -218,14 +218,17 @@ Implementation of Association Mining (FPM) Algorithm using Python and Java.
 <!-- =========================================================================================
                                      EXPERIMENT 9
      ========================================================================================= -->
-## Experiment 9: Apriori Algorithm
+## Experiment 9: Apriori Algorithm using WEKA
 
-Association rule mining using Apriori algorithm in WEKA.
+Study and implementation of Apriori Algorithm using WEKA tool for Association Rule Mining.
 
-| # | Document | Description | Link |
+**Date:** April 28, 2021
+
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_DWM_Lab_Experiment-9.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_DWM_Lab_Experiment-9.docx) |
+| 1 | car.arff | Car Configuration dataset for Apriori algorithm | [View](Experiment-9/car.arff) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-9/Amey_B-50_DWM_Lab_Experiment-9.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-9/Amey_B-50_DWM_Lab_Experiment-9.docx) |
 
 ---
 
