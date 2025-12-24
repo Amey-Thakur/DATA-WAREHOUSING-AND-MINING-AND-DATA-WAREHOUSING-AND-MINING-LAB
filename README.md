@@ -122,7 +122,7 @@ The laboratory component (CSL603) focuses on hands-on implementation of data min
 </div>
 
 > [!TIP]
-> **Lab Concept**: Data mining experiments often require understanding of preprocessing steps before applying algorithms. When using WEKA, always ensure your dataset is properly formatted (ARFF) and preprocessed for optimal results.
+> **Strategic Insight**: The success of any Data Mining project lies in the quality of Data Preprocessing ("Garbage In, Garbage Out"). A robust Data Warehouse schema (Star/Snowflake) is the backbone of efficient OLAP. When implementing algorithms in **WEKA** or **Python**, always prioritize data cleaning, normalization, and correct format conversion (ARFF/CSV) to ensure statistically significant results.
 
 | # | Experiment | Date | Report |
 |:-:|:---|:---:|:-:|
