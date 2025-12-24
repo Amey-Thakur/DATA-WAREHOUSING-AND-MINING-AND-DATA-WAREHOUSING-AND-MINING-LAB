@@ -132,14 +132,17 @@ Implementation of OLAP operations (Roll-up, Drill-down, Slice, Dice) in SQL Envi
 <!-- =========================================================================================
                                      EXPERIMENT 4
      ========================================================================================= -->
-## Experiment 4: Data Preprocessing
+## Experiment 4: Decision Tree Classification using J-48
 
-Data preprocessing techniques using WEKA (cleaning, transformation, normalization).
+Implementation of Decision Tree Algorithm using J-48 in WEKA tool with Iris dataset.
 
-| # | Document | Description | Link |
+**Date:** April 10, 2021
+
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_DWM_Lab_Experiment-4.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_DWM_Lab_Experiment-4.docx) |
+| 1 | iris_decision_tree.arff | Iris dataset (150 instances) for J48 classification in WEKA | [View](Experiment-4/iris_decision_tree.arff) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-4/Amey_B-50_DWM_Lab_Experiment-4.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-4/Amey_B-50_DWM_Lab_Experiment-4.docx) |
 
 ---
 
