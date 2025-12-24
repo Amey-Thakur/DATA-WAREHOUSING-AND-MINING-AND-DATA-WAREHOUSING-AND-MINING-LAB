@@ -343,18 +343,16 @@ Previous year university question papers:
      ========================================================================================= -->
 ## Usage Guidelines
 
-**For Students:**
-- Utilize these materials as supplementary study resources alongside your coursework.
-- Practice with question papers to familiarize yourself with exam patterns.
-- Use WEKA tool for hands-on practice with data mining algorithms.
+This repository is openly shared to support learning and knowledge exchange across the academic community.
 
-**For Educators:**
-- Feel free to reference these materials for lab examples and teaching support.
-- Students may refer to these as additional learning resources.
+**For Students**  
+Use these resources as reference materials for understanding data mining algorithms, concepts, and preparing for examinations. All content is organized for self-paced learning.
 
-**For Researchers:**
-- Materials are available for academic research purposes.
-- Please cite appropriately if using any content from this repository.
+**For Educators**  
+These materials may serve as curriculum references, lab examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The documentation and organization may provide insights into academic resource curation and educational content structuring.
 
 ---
 
