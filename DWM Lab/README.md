@@ -200,14 +200,18 @@ Implementation of Agglomerative Hierarchical Clustering using Python (scikit-lea
 <!-- =========================================================================================
                                      EXPERIMENT 8
      ========================================================================================= -->
-## Experiment 8: Hierarchical Clustering
+## Experiment 8: Association Pattern Mining
 
-Hierarchical clustering techniques in WEKA.
+Implementation of Association Mining (FPM) Algorithm using Python and Java.
 
-| # | Document | Description | Link |
+**Date:** April 28, 2021
+
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_DWM_Lab_Experiment-8.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_DWM_Lab_Experiment-8.docx) |
+| 1 | association_rule_mining.py | Python implementation of Apriori Algorithm with `car.csv` | [View](Experiment-8/association_rule_mining.py) |
+| 2 | FPM.java | Java implementation of Frequent Pattern Mining | [View](Experiment-8/FPM.java) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-8/Amey_B-50_DWM_Lab_Experiment-8.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-8/Amey_B-50_DWM_Lab_Experiment-8.docx) |
 
 ---
 
