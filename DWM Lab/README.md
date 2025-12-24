@@ -59,9 +59,9 @@
 -   Proceed to **Experiment 3 (OLAP)** to master multidimensional data analysis.
 
 **2. Data Mining Algorithms**
--   **Classification**: Learn Decision Trees (**Exp 4**) and Naive Bayes (**Exp 5**).
--   **Clustering**: Understand grouping with K-Means (**Exp 6**) and Hierarchical Clustering (**Exp 7**).
--   **Association**: Efficient pattern discovery with Apriori & FP-Growth (**Exp 8, 9**).
+-   **Classification**: Learn Decision Trees (**Experiment 4**) and Naive Bayes (**Experiment 5**).
+-   **Clustering**: Understand grouping with K-Means (**Experiment 6**) and Hierarchical Clustering (**Experiment 7**).
+-   **Association**: Efficient pattern discovery with Apriori & FP-Growth (**Experiment 8, 9**).
 
 **3. Advanced Topics**
 -   Explore modern applications in **Experiment 10 (Web & Spatial Mining)**.
