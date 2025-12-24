@@ -117,7 +117,8 @@ The laboratory component (CSL603) focuses on hands-on implementation of data min
 
   [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](DWM%20Lab/)
   [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](DWM%20Lab/)
-  [![Tools](https://img.shields.io/badge/Tools-WEKA%20%7C%20SQL-blueviolet.svg)](DWM%20Lab/)
+  [![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20SQL-blue.svg)](DWM%20Lab/)
+  [![Focus](https://img.shields.io/badge/Focus-Data%20Mining-blueviolet.svg)](DWM%20Lab/)
 
 </div>
 
