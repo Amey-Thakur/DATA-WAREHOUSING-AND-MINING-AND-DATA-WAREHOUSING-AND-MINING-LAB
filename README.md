@@ -147,73 +147,93 @@ The laboratory component (CSL603) focuses on hands-on implementation of data min
 
 <details>
 <summary><b>Experiment 1: Star Schema for E-Commerce Data Warehouse (1 Program)</b></summary>
+<br>
 
-- [**Star_Schema_ECommerce.sql**](DWM%20Lab/Experiment-1/Star_Schema_ECommerce.sql)
-
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Star_Schema_ECommerce.sql` | Schema Design | Implementation of Star Schema for E-Commerce Data Warehouse | [View](DWM%20Lab/Experiment-1/Star_Schema_ECommerce.sql) |
 </details>
 
 <details>
 <summary><b>Experiment 2: Dimension Tables and Fact Table Implementation (1 Program)</b></summary>
+<br>
 
-- [**Dimension_Fact_Tables.sql**](DWM%20Lab/Experiment-2/Dimension_Fact_Tables.sql)
-
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Dimension_Fact_Tables.sql` | SQL Implementation | Creation of Dimension and Fact tables with relationships | [View](DWM%20Lab/Experiment-2/Dimension_Fact_Tables.sql) |
 </details>
 
 <details>
 <summary><b>Experiment 3: OLAP Operations (1 Program)</b></summary>
+<br>
 
-- [**OLAP_Operations.sql**](DWM%20Lab/Experiment-3/OLAP_Operations.sql)
-
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `OLAP_Operations.sql` | OLAP Queries | Implementation of Roll-up, Drill-down, Slice, and Dice operations | [View](DWM%20Lab/Experiment-3/OLAP_Operations.sql) |
 </details>
 
 <details>
 <summary><b>Experiment 4: Decision Tree Classification using J-48 (1 Resource)</b></summary>
+<br>
 
-- [**iris_decision_tree.arff**](DWM%20Lab/Experiment-4/iris_decision_tree.arff)
-
+| Resource | Category | Description | Link |
+|:---|:---|:---|:-:|
+| `iris_decision_tree.arff` | Dataset | Iris dataset formatted for WEKA Decision Tree analysis | [View](DWM%20Lab/Experiment-4/iris_decision_tree.arff) |
 </details>
 
 <details>
 <summary><b>Experiment 5: Naive Bayes Classification (1 Program)</b></summary>
+<br>
 
-- [**naive_bayes_classification.py**](DWM%20Lab/Experiment-5/naive_bayes_classification.py)
-
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `naive_bayes_classification.py` | Classification | Python implementation of Naive Bayes algorithm | [View](DWM%20Lab/Experiment-5/naive_bayes_classification.py) |
 </details>
 
 <details>
 <summary><b>Experiment 6: K-Means Clustering (1 Program)</b></summary>
+<br>
 
-- [**kmeans_clustering.py**](DWM%20Lab/Experiment-6/kmeans_clustering.py)
-
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `kmeans_clustering.py` | Clustering | Python implementation of K-Means clustering algorithm | [View](DWM%20Lab/Experiment-6/kmeans_clustering.py) |
 </details>
 
 <details>
 <summary><b>Experiment 7: Hierarchical Clustering (1 Program)</b></summary>
+<br>
 
-- [**hierarchical_clustering.py**](DWM%20Lab/Experiment-7/hierarchical_clustering.py)
-
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `hierarchical_clustering.py` | Clustering | Python implementation of Hierarchical clustering algorithm | [View](DWM%20Lab/Experiment-7/hierarchical_clustering.py) |
 </details>
 
 <details>
 <summary><b>Experiment 8: Association Pattern Mining (2 Programs)</b></summary>
+<br>
 
-- [**FPM.java**](DWM%20Lab/Experiment-8/FPM.java)
-- [**association_rule_mining.py**](DWM%20Lab/Experiment-8/association_rule_mining.py)
-
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `FPM.java` | FP-Growth | Java implementation of Frequent Pattern Growth algorithm | [View](DWM%20Lab/Experiment-8/FPM.java) |
+| `association_rule_mining.py` | Apriori | Python implementation of Association Rule Mining | [View](DWM%20Lab/Experiment-8/association_rule_mining.py) |
 </details>
 
 <details>
 <summary><b>Experiment 9: Apriori Algorithm (WEKA) (1 Resource)</b></summary>
+<br>
 
-- [**car.arff**](DWM%20Lab/Experiment-9/car.arff)
-
+| Resource | Category | Description | Link |
+|:---|:---|:---|:-:|
+| `car.arff` | Dataset | Car evaluation dataset formatted for WEKA Apriori analysis | [View](DWM%20Lab/Experiment-9/car.arff) |
 </details>
 
 <details>
 <summary><b>Experiment 10: Web Mining and Spatial Data Mining (1 Resource)</b></summary>
+<br>
 
-- [**web_spatial_mining_study.txt**](DWM%20Lab/Experiment-10/web_spatial_mining_study.txt)
-
+| Resource | Category | Description | Link |
+|:---|:---|:---|:-:|
+| `web_spatial_mining_study.txt` | Study Material | Notes and study material for Web and Spatial Data Mining | [View](DWM%20Lab/Experiment-10/web_spatial_mining_study.txt) |
 </details>
 
 ### Laboratory Documentation
