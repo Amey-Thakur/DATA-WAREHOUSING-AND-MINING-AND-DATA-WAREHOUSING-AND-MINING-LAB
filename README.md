@@ -284,9 +284,9 @@ Final semester examination submission:
 
 | # | Resource | Description | Date |
 |:-:|:---|:---|:---:|
-| 1 | [MCQ](Semester%20Exam/MCQ_TE-B.pdf) | DWM Semester Exam MCQ Paper | — |
-| 2 | [Question 2](Semester%20Exam/Q2_61021145_DWM.pdf) | DWM Semester Exam Answer Sheet | — |
-| 3 | [Question 3](Semester%20Exam/Q3_61021145_DWM.pdf) | DWM Semester Exam Answer Sheet | — |
+| 1 | [MCQ](Semester%20Exam/MCQ_TE-B.pdf) | DWM Semester Exam MCQ Paper | June 07, 2021 |
+| 2 | [Question 2](Semester%20Exam/Q2_61021145_DWM.pdf) | DWM Semester Exam Answer Sheet | June 07, 2021 |
+| 3 | [Question 3](Semester%20Exam/Q3_61021145_DWM.pdf) | DWM Semester Exam Answer Sheet | June 07, 2021 |
 
 **Additional Resources:**
 
