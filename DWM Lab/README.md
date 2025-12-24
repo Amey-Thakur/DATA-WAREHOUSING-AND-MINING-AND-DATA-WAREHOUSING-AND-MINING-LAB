@@ -8,24 +8,24 @@
   ### CSL603 · Semester VI · Computer Engineering
 
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
-  [![Documents](https://img.shields.io/badge/Documents-10-yellowgreen.svg)](#experiment-1-data-warehousing-introduction)
+  [![Documents](https://img.shields.io/badge/Documents-10-yellowgreen.svg)](#experiment-1-star-schema-for-e-commerce-data-warehouse)
   [![Tools](https://img.shields.io/badge/Tools-WEKA%20%7C%20SQL-blueviolet.svg)](./)
 
   **A comprehensive collection of laboratory experiments for Data Warehousing and Mining, covering data warehouse design, OLAP operations, data preprocessing, classification, clustering, and association rule mining.**
 
   ---
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-data-warehousing-introduction)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-star--snowflake-schemas)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-olap-operations)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-data-preprocessing)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-decision-tree-classification)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-naive-bayes-classification)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-k-means-clustering)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-hierarchical-clustering)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-apriori-algorithm)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-advanced-data-mining)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-star-schema-for-e-commerce-data-warehouse)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-dimension-tables-and-fact-table-implementation)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-olap-operations-implementation)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-decision-tree-classification-using-j-48)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-naive-bayes-classification-using-python)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-k-means-clustering-using-python)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-hierarchical-clustering-using-python)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-association-pattern-mining)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-apriori-algorithm-using-weka)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-web-mining-and-spatial-data-mining)**
 
 </div>
 
 ---
 
 > [!TIP]
-> **WEKA Guide**: When using WEKA for data mining experiments, always preprocess your dataset first. Use the "Preprocess" tab to load data, handle missing values, and apply filters. For classification experiments, ensure your class attribute is properly set using the dropdown at the bottom of the Preprocess panel.
+> **Lab Environment**: Ensure you have **Python 3.x** installed with libraries like `pandas`, `numpy`, `matplotlib`, and `scikit-learn`. For WEKA experiments, verify that your datasets are in valid ARFF format.
 
 > [!WARNING]
-> **Dataset Format**: WEKA requires datasets in ARFF (Attribute-Relation File Format) or CSV format. Ensure your CSV files have proper headers and no missing delimiters. For SQL-based experiments, verify your database connection and table structures before running queries.
+> **Path Dependencies**: When running scripts, ensure the dataset files (e.g., `car.csv`, `age_bmi.csv`) are in the same directory as the script or update the file paths in the code accordingly.
 
 ---
 
@@ -34,26 +34,18 @@
      ========================================================================================= -->
 ## How to Use
 
-### Viewing Reports
-1. **Navigate** to the desired experiment section.
-2. **Click** the "View" link for PDF format or "Download" for DOCX format.
-3. **PDF files** can be viewed directly in the browser.
-4. **DOCX files** require Microsoft Word or compatible software.
+### Running Experiments
+1.  **Navigate** to the specific experiment folder (e.g., `Experiment-1`).
+2.  **Review** the source code header for requirements and usage instructions.
+3.  **Execute** the script:
+    -   **Python**: `python filename.py`
+    -   **Java**: `javac Filename.java` then `java Filename`
+    -   **SQL**: Import into your SQL environment (e.g., MySQL Workbench).
 
 ### Using WEKA
-1. **Download** WEKA from the official website.
-2. **Load** the provided CSV files from the `Excel Files` folder.
-3. **Follow** the experiment instructions for each algorithm.
-
-### Excel Files
-Sample datasets for data mining experiments:
-
-| # | Dataset | Description |
-|:-:|:---|:---|
-| 1 | [age_bmi.csv](Excel%20Files/age_bmi.csv) | Age and BMI data for regression analysis |
-| 2 | [car.csv](Excel%20Files/car.csv) | Car dataset for classification |
-| 3 | [diabetes_csv.csv](Excel%20Files/diabetes_csv.csv) | Diabetes dataset for classification |
-| 4 | [hardware.csv](Excel%20Files/hardware.csv) | Hardware dataset for analysis |
+1.  **Open** WEKA GUI Chooser > Explorer.
+2.  **Load** the `.arff` file provided in the experiment folder.
+3.  **Select** the appropriate algorithm (Filter/Classifier/Clusterer/Associator) as per the lab instructions.
 
 ---
 
@@ -62,19 +54,17 @@ Sample datasets for data mining experiments:
      ========================================================================================= -->
 ## Learning Path
 
-**Data Warehousing Fundamentals:**
-- Start with **Experiment 1** to understand data warehousing concepts and architecture.
-- Practice **Experiments 2 & 3** for schema design (Star, Snowflake) and OLAP operations.
+**1. Data Warehousing Core**
+-   Start with **Experiment 1 (Star Schema)** and **Experiment 2 (Dimensions/Facts)** to understand DW design.
+-   Proceed to **Experiment 3 (OLAP)** to master multidimensional data analysis.
 
-**Data Preprocessing:**
-- Explore **Experiment 4** to master data cleaning, transformation, and normalization techniques.
+**2. Data Mining Algorithms**
+-   **Classification**: Learn Decision Trees (**Exp 4**) and Naive Bayes (**Exp 5**).
+-   **Clustering**: Understand grouping with K-Means (**Exp 6**) and Hierarchical Clustering (**Exp 7**).
+-   **Association**: Efficient pattern discovery with Apriori & FP-Growth (**Exp 8, 9**).
 
-**Classification Techniques:**
-- Study **Experiments 5 & 6** for Decision Tree and Naive Bayes classification algorithms.
-
-**Clustering & Association:**
-- Complete **Experiments 7 & 8** for K-Means and Hierarchical clustering.
-- Master **Experiments 9 & 10** for Association Rule Mining (Apriori) and advanced techniques.
+**3. Advanced Topics**
+-   Explore modern applications in **Experiment 10 (Web & Spatial Mining)**.
 
 ---
 
@@ -257,7 +247,7 @@ Study of complex Data Types used in Web mining and Spatial Mining Applications.
   <!-- Footer Navigation -->
   **[↑ Back to Top](#data-warehousing-and-mining-lab)**
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-data-warehousing-introduction)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-star--snowflake-schemas)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-olap-operations)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-data-preprocessing)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-decision-tree-classification)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-naive-bayes-classification)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-k-means-clustering)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-hierarchical-clustering)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-apriori-algorithm)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-advanced-data-mining)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-star-schema-for-e-commerce-data-warehouse)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-dimension-tables-and-fact-table-implementation)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-olap-operations-implementation)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-decision-tree-classification-using-j-48)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-naive-bayes-classification-using-python)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-k-means-clustering-using-python)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-hierarchical-clustering-using-python)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-association-pattern-mining)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-apriori-algorithm-using-weka)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-web-mining-and-spatial-data-mining)**
 
   <br>
 
