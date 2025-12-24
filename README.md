@@ -99,10 +99,10 @@ Study materials and planning resources for effective exam preparation:
 
 Course assignments demonstrating understanding of DWM concepts:
 
-| # | Assignment | Description | Date | Marks |
-|:-:|:---|:---|:---:|:---:|
-| 1 | [Assignment 1](Assignments/Amey_B-50_DWM_Assignment-1.pdf) | Data Warehouse Architecture, Metadata, ETL, OLAP, KDD Process | May 04, 2021 | 10/10 |
-| 2 | [Assignment 2](Assignments/Amey_B-50_DWM_Assignment-2.pdf) | Classification vs Clustering, Regression, Apriori, Web Mining | May 04, 2021 | 10/10 |
+| # | Assignment | Description | Date |
+|:-:|:---|:---|:---:|
+| 1 | [Assignment 1](Assignments/Amey_B-50_DWM_Assignment-1.pdf) | Data Warehouse Architecture, Metadata, ETL, OLAP, KDD Process | May 04, 2021 |
+| 2 | [Assignment 2](Assignments/Amey_B-50_DWM_Assignment-2.pdf) | Classification vs Clustering, Regression, Apriori, Web Mining | May 04, 2021 |
 
 **Topics Covered**: Data Warehouse Architecture · Metadata Types · ETL Process · OLAP Operations · KDD Process · Classification, Prediction & Clustering · Linear Regression · Apriori Algorithm · Association Rule Mining · Spatial & Web Mining
 
