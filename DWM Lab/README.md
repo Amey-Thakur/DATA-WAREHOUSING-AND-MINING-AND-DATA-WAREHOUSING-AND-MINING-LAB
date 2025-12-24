@@ -149,14 +149,17 @@ Implementation of Decision Tree Algorithm using J-48 in WEKA tool with Iris data
 <!-- =========================================================================================
                                      EXPERIMENT 5
      ========================================================================================= -->
-## Experiment 5: Decision Tree Classification
+## Experiment 5: Naive Bayes Classification using Python
 
-Classification using Decision Tree (J48/C4.5) algorithm in WEKA.
+Implementation of Gaussian Naive Bayes Algorithm using Python (scikit-learn) with Diabetes dataset.
 
-| # | Document | Description | Link |
+**Date:** April 15, 2021
+
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_DWM_Lab_Experiment-5.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_DWM_Lab_Experiment-5.docx) |
+| 1 | naive_bayes_classification.py | Python implementation with GaussianNB (76.6% accuracy) | [View](Experiment-5/naive_bayes_classification.py) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-5/Amey_B-50_DWM_Lab_Experiment-5.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-5/Amey_B-50_DWM_Lab_Experiment-5.docx) |
 
 ---
 

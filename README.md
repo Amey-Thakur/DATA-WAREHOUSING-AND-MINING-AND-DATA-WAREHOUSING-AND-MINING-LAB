@@ -130,7 +130,7 @@ The laboratory component (CSL603) focuses on hands-on implementation of data min
 | 2 | Dimension Tables and Fact Table Implementation | February 02, 2021 | [View](DWM%20Lab/Experiment-2/Amey_B-50_DWM_Lab_Experiment-2.pdf) |
 | 3 | OLAP Operations (Roll-up, Drill-down, Slice, Dice) | March 23, 2021 | [View](DWM%20Lab/Experiment-3/Amey_B-50_DWM_Lab_Experiment-3.pdf) |
 | 4 | Decision Tree Classification using J-48 (WEKA) | April 10, 2021 | [View](DWM%20Lab/Experiment-4/Amey_B-50_DWM_Lab_Experiment-4.pdf) |
-| 5 | Classification using Decision Tree algorithm | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-5.pdf) |
+| 5 | Naive Bayes Classification (Python) | April 15, 2021 | [View](DWM%20Lab/Experiment-5/Amey_B-50_DWM_Lab_Experiment-5.pdf) |
 | 6 | Classification using Naive Bayes algorithm | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-6.pdf) |
 | 7 | Clustering using K-Means algorithm | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-7.pdf) |
 | 8 | Hierarchical clustering techniques | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-8.pdf) |
