@@ -138,7 +138,7 @@ The laboratory component (CSL603) focuses on hands-on implementation of data min
 | 10 | Web Mining and Spatial Data Mining | April 28, 2021 | [View](DWM%20Lab/Experiment-10/Amey_B-50_DWM_Lab_Experiment-10.pdf) |
 
 
----
+
 
 <!-- =========================================================================================
                                      PROGRAM DETAILS
