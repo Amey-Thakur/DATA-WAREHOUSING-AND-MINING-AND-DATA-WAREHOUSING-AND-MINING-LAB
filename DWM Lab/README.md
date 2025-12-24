@@ -183,14 +183,17 @@ Implementation of K-Means Clustering using Python (scikit-learn) with Elbow Meth
 <!-- =========================================================================================
                                      EXPERIMENT 7
      ========================================================================================= -->
-## Experiment 7: K-Means Clustering
+## Experiment 7: Hierarchical Clustering using Python
 
-Clustering using K-Means algorithm in WEKA.
+Implementation of Agglomerative Hierarchical Clustering using Python (scikit-learn) with Dendrogram.
 
-| # | Document | Description | Link |
+**Date:** April 15, 2021
+
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_DWM_Lab_Experiment-7.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_DWM_Lab_Experiment-7.docx) |
+| 1 | hierarchical_clustering.py | Python implementation with Dendrogram and cluster visualization | [View](Experiment-7/hierarchical_clustering.py) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-7/Amey_B-50_DWM_Lab_Experiment-7.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-7/Amey_B-50_DWM_Lab_Experiment-7.docx) |
 
 ---
 

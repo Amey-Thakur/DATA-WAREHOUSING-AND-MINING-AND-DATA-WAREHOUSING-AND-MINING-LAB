@@ -132,7 +132,7 @@ The laboratory component (CSL603) focuses on hands-on implementation of data min
 | 4 | Decision Tree Classification using J-48 (WEKA) | April 10, 2021 | [View](DWM%20Lab/Experiment-4/Amey_B-50_DWM_Lab_Experiment-4.pdf) |
 | 5 | Naive Bayes Classification (Python) | April 15, 2021 | [View](DWM%20Lab/Experiment-5/Amey_B-50_DWM_Lab_Experiment-5.pdf) |
 | 6 | K-Means Clustering (Python) | April 15, 2021 | [View](DWM%20Lab/Experiment-6/Amey_B-50_DWM_Lab_Experiment-6.pdf) |
-| 7 | Clustering using K-Means algorithm | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-7.pdf) |
+| 7 | Hierarchical Clustering (Python) | April 15, 2021 | [View](DWM%20Lab/Experiment-7/Amey_B-50_DWM_Lab_Experiment-7.pdf) |
 | 8 | Hierarchical clustering techniques | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-8.pdf) |
 | 9 | Association rule mining using Apriori algorithm | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-9.pdf) |
 | 10 | Advanced data mining techniques and visualization | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-10.pdf) |
