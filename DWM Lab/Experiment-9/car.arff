@@ -1,0 +1,89 @@
+% ============================================================================================
+% DATA WAREHOUSING AND MINING LABORATORY
+% Experiment 9: Apriori Algorithm using WEKA
+% ============================================================================================
+%
+% Author: Amey Thakur
+% GitHub: https://github.com/Amey-Thakur
+% Repository: https://github.com/Amey-Thakur/DATA-WAREHOUSING-AND-MINING-AND-DATA-WAREHOUSING-AND-MINING-LAB
+%
+% Course: Data Warehousing and Mining Lab (CSL603)
+% Semester: VI | Institution: Terna Engineering College | University: Mumbai
+% Date: April 28, 2021
+%
+% ============================================================================================
+% AIM:
+% Study and implementation of APRIORI algorithm using WEKA tool.
+%
+% DATASET:
+% Car Configuration Dataset (car.arff)
+% - Attributes: Type, Color, Fuel, Economic
+% - Used to discover associations between car features.
+%
+% WEKA INSTRUCTIONS:
+% 1. Open WEKA GUI Chooser -> Explorer.
+% 2. Preprocess Tab -> Open file -> Select 'car.arff'.
+% 3. Associate Tab -> Choose Associator -> Apriori.
+% 4. Adjust parameters (MinSupport, LowerBoundMinSupport, etc.) if needed.
+% 5. Click Start to generate association rules.
+%
+% ============================================================================================
+
+@relation car
+
+@attribute Type {Subcompact, Compact, Sedan, Luxury}
+@attribute Color {Red, Silver, Black}
+@attribute Fuel {Petrol, Diesel, CNG, Electric}
+@attribute Economic {Yes, No}
+
+@data
+Subcompact,Red,Petrol,Yes
+Compact,Black,Diesel,Yes
+Compact,Silver,Petrol,Yes
+Luxury,Red,Electric,No
+Subcompact,Silver,CNG,Yes
+Luxury,Red,Petrol,No
+Sedan,Silver,Electric,No
+Sedan,Black,Diesel,Yes
+Subcompact,Black,Electric,Yes
+Compact,Red,CNG,Yes
+Sedan,Silver,Petrol,Yes
+Luxury,Red,Diesel,No
+Luxury,Silver,Electric,No
+Sedan,Black,CNG,Yes
+Compact,Black,Diesel,Yes
+Compact,Red,Electric,No
+Subcompact,Black,Petrol,Yes
+Luxury,Silver,CNG,No
+Sedan,Red,Diesel,Yes
+Sedan,Silver,Electric,No
+Subcompact,Red,CNG,Yes
+Compact,Black,Petrol,Yes
+Subcompact,Red,Petrol,Yes
+Luxury,Silver,CNG,No
+Sedan,Black,Diesel,Yes
+Sedan,Red,Electric,No
+Subcompact,Red,Diesel,Yes
+Compact,Silver,Petrol,Yes
+Luxury,Red,Diesel,No
+Sedan,Black,Petrol,Yes
+Subcompact,Black,Petrol,Yes
+Subcompact,Red,Electric,No
+Compact,Red,Petrol,Yes
+Luxury,Silver,CNG,No
+Compact,Black,Diesel,Yes
+Luxury,Silver,Electric,No
+Subcompact,Red,CNG,Yes
+Luxury,Red,Diesel,No
+Sedan,Black,Electric,No
+Compact,Black,CNG,Yes
+Compact,Red,CNG,Yes
+Sedan,Silver,Petrol,Yes
+Luxury,Black,Diesel,No
+Subcompact,Silver,Electric,No
+Sedan,Red,CNG,Yes
+Compact,Black,Diesel,Yes
+Luxury,Red,Petrol,No
+Subcompact,Black,Electric,No
+Luxury,Silver,Diesel,No
+Compact,Red,Diesel,Yes
