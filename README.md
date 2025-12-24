@@ -140,9 +140,6 @@ The laboratory component (CSL603) focuses on hands-on implementation of data min
 | 9 | Apriori Algorithm (WEKA) | April 28, 2021 | [View](DWM%20Lab/Experiment-9/Amey_B-50_DWM_Lab_Experiment-9.pdf) |
 | 10 | Web Mining and Spatial Data Mining | April 28, 2021 | [View](DWM%20Lab/Experiment-10/Amey_B-50_DWM_Lab_Experiment-10.pdf) |
 
-
-
-
 <!-- =========================================================================================
                                      PROGRAM DETAILS
      ========================================================================================= -->
@@ -226,8 +223,6 @@ The laboratory component (CSL603) focuses on hands-on implementation of data min
 | 1 | [**Lab README**](DWM%20Lab/README.md) | Detailed navigation guide with program descriptions |
 
 ---
-
-
 <!-- =========================================================================================
                                      MOCK TEST
      ========================================================================================= -->
@@ -267,8 +262,6 @@ Internal assessment evaluations conducted during the course:
 | # | Resource | Description |
 |:-:|:---|:---|
 | 1 | [Answer Sheet Template](Internal%20Assessment%20Test/DWM.pdf) | IAT Answer Sheet Template |
-
-
 
 ---
 
