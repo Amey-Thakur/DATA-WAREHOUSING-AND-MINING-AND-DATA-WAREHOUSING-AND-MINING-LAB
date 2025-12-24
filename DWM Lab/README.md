@@ -166,14 +166,17 @@ Implementation of Gaussian Naive Bayes Algorithm using Python (scikit-learn) wit
 <!-- =========================================================================================
                                      EXPERIMENT 6
      ========================================================================================= -->
-## Experiment 6: Naive Bayes Classification
+## Experiment 6: K-Means Clustering using Python
 
-Classification using Naive Bayes algorithm in WEKA.
+Implementation of K-Means Clustering using Python (scikit-learn) with Elbow Method.
 
-| # | Document | Description | Link |
+**Date:** April 15, 2021
+
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_DWM_Lab_Experiment-6.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_DWM_Lab_Experiment-6.docx) |
+| 1 | kmeans_clustering.py | Python implementation with Elbow Method and 2 clusters | [View](Experiment-6/kmeans_clustering.py) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-6/Amey_B-50_DWM_Lab_Experiment-6.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-6/Amey_B-50_DWM_Lab_Experiment-6.docx) |
 
 ---
 
