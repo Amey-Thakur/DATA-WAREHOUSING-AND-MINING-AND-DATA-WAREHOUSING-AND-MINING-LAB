@@ -246,27 +246,29 @@ Technical mock test conducted for placement preparation:
      ========================================================================================= -->
 ## Internal Assessment Test
 
-Internal assessment evaluations conducted during the semester:
+Internal assessment evaluations conducted during the course:
 
-### IAT-1
+### IAT - 1
+
+| # | Resource | Description | Marks |
+|:-:|:---|:---|:---:|
+| 1 | [Question Paper](Internal%20Assessment%20Test/58DWM%20Q.6%20Descriptive%20questions.pdf) | DWM Internal Assessment Test 1 Question Paper | — |
+| 2 | [MCQ](Internal%20Assessment%20Test/DWM-MCQ.png) | DWM Internal Assessment Test 1 MCQ | — |
+| 3 | [Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_DWM_IAT-1.pdf) | DWM Internal Assessment Test 1 Answer Sheet | — |
+
+### IAT - 2
+
+| # | Resource | Description | Marks |
+|:-:|:---|:---|:---:|
+| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_DWM_IAT-2.pdf) | DWM Internal Assessment Test 2 Answer Sheet | — |
+
+**Additional Resources:**
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [IAT-1 Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_DWM_IAT-1.pdf) | DWM IAT-1 answer sheet |
+| 1 | [Answer Sheet Template](Internal%20Assessment%20Test/DWM.pdf) | IAT Answer Sheet Template |
 
-### IAT-2
 
-| # | Resource | Description |
-|:-:|:---|:---|
-| 1 | [IAT-2 Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_DWM_IAT-2.pdf) | DWM IAT-2 answer sheet |
-
-### Additional Resources
-
-| # | Resource | Description |
-|:-:|:---|:---|
-| 1 | [DWM MCQ](Internal%20Assessment%20Test/DWM-MCQ.png) | Multiple choice questions reference |
-| 2 | [DWM Notes](Internal%20Assessment%20Test/DWM.pdf) | Additional notes for preparation |
-| 3 | [Descriptive Questions](Internal%20Assessment%20Test/58DWM%20Q.6%20Descriptive%20questions.pdf) | Descriptive question practice |
 
 ---
 
