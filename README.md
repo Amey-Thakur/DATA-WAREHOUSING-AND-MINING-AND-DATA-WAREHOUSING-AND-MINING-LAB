@@ -361,9 +361,10 @@ The documentation and organization may provide insights into academic resource c
      ========================================================================================= -->
 ## License
 
-This repository is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
 
-You may share and adapt the materials, provided appropriate credit is given to the original author. For full license terms, see the [LICENSE](LICENSE) file.
+> [!NOTE]
+> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
 ---
 
@@ -383,7 +384,7 @@ This repository represents a comprehensive collection of study materials, refere
 
 ### Acknowledgments
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Data Warehousing and Mining. Their clear teaching and continued support helped develop a strong understanding of data mining techniques and warehouse concepts.
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Data Warehousing and Mining. Their clear teaching and continued support helped develop a strong understanding of data mining techniques and warehouse concepts.
 
 Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
@@ -401,7 +402,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  **[DWM Lab](DWM%20Lab/)**
+  **[DWM Lab](DWM%20Lab/README.md)**
 
 </div>
 
