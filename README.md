@@ -137,7 +137,93 @@ The laboratory component (CSL603) focuses on hands-on implementation of data min
 | 9 | Apriori Algorithm (WEKA) | April 28, 2021 | [View](DWM%20Lab/Experiment-9/Amey_B-50_DWM_Lab_Experiment-9.pdf) |
 | 10 | Web Mining and Spatial Data Mining | April 28, 2021 | [View](DWM%20Lab/Experiment-10/Amey_B-50_DWM_Lab_Experiment-10.pdf) |
 
+
 ---
+
+<!-- =========================================================================================
+                                     PROGRAM DETAILS
+     ========================================================================================= -->
+### Program Details
+
+<details>
+<summary><b>Experiment 1: Star Schema for E-Commerce Data Warehouse (1 Program)</b></summary>
+
+- [**Star_Schema_ECommerce.sql**](DWM%20Lab/Experiment-1/Star_Schema_ECommerce.sql)
+
+</details>
+
+<details>
+<summary><b>Experiment 2: Dimension Tables and Fact Table Implementation (1 Program)</b></summary>
+
+- [**Dimension_Fact_Tables.sql**](DWM%20Lab/Experiment-2/Dimension_Fact_Tables.sql)
+
+</details>
+
+<details>
+<summary><b>Experiment 3: OLAP Operations (1 Program)</b></summary>
+
+- [**OLAP_Operations.sql**](DWM%20Lab/Experiment-3/OLAP_Operations.sql)
+
+</details>
+
+<details>
+<summary><b>Experiment 4: Decision Tree Classification using J-48 (1 Resource)</b></summary>
+
+- [**iris_decision_tree.arff**](DWM%20Lab/Experiment-4/iris_decision_tree.arff)
+
+</details>
+
+<details>
+<summary><b>Experiment 5: Naive Bayes Classification (1 Program)</b></summary>
+
+- [**naive_bayes_classification.py**](DWM%20Lab/Experiment-5/naive_bayes_classification.py)
+
+</details>
+
+<details>
+<summary><b>Experiment 6: K-Means Clustering (1 Program)</b></summary>
+
+- [**kmeans_clustering.py**](DWM%20Lab/Experiment-6/kmeans_clustering.py)
+
+</details>
+
+<details>
+<summary><b>Experiment 7: Hierarchical Clustering (1 Program)</b></summary>
+
+- [**hierarchical_clustering.py**](DWM%20Lab/Experiment-7/hierarchical_clustering.py)
+
+</details>
+
+<details>
+<summary><b>Experiment 8: Association Pattern Mining (2 Programs)</b></summary>
+
+- [**FPM.java**](DWM%20Lab/Experiment-8/FPM.java)
+- [**association_rule_mining.py**](DWM%20Lab/Experiment-8/association_rule_mining.py)
+
+</details>
+
+<details>
+<summary><b>Experiment 9: Apriori Algorithm (WEKA) (1 Resource)</b></summary>
+
+- [**car.arff**](DWM%20Lab/Experiment-9/car.arff)
+
+</details>
+
+<details>
+<summary><b>Experiment 10: Web Mining and Spatial Data Mining (1 Resource)</b></summary>
+
+- [**web_spatial_mining_study.txt**](DWM%20Lab/Experiment-10/web_spatial_mining_study.txt)
+
+</details>
+
+### Laboratory Documentation
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [**Lab README**](DWM%20Lab/README.md) | Detailed navigation guide with program descriptions |
+
+---
+
 
 <!-- =========================================================================================
                                      MOCK TEST
