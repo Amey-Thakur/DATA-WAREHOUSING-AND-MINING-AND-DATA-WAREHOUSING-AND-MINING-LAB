@@ -135,7 +135,7 @@ The laboratory component (CSL603) focuses on hands-on implementation of data min
 | 7 | Hierarchical Clustering (Python) | April 15, 2021 | [View](DWM%20Lab/Experiment-7/Amey_B-50_DWM_Lab_Experiment-7.pdf) |
 | 8 | Association Pattern Mining (Apriori & FPM) | April 28, 2021 | [View](DWM%20Lab/Experiment-8/Amey_B-50_DWM_Lab_Experiment-8.pdf) |
 | 9 | Apriori Algorithm (WEKA) | April 28, 2021 | [View](DWM%20Lab/Experiment-9/Amey_B-50_DWM_Lab_Experiment-9.pdf) |
-| 10 | Advanced data mining techniques and visualization | — | [View](DWM%20Lab/Amey_B-50_DWM_Lab_Experiment-10.pdf) |
+| 10 | Web Mining and Spatial Data Mining | April 28, 2021 | [View](DWM%20Lab/Experiment-10/Amey_B-50_DWM_Lab_Experiment-10.pdf) |
 
 ---
 

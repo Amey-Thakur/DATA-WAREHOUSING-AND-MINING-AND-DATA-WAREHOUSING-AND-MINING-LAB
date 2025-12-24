@@ -1,0 +1,101 @@
+============================================================================================
+DATA WAREHOUSING AND MINING LABORATORY
+Experiment 10: Web Mining and Spatial Mining
+============================================================================================
+
+Author: Amey Thakur
+GitHub: https://github.com/Amey-Thakur
+Repository: https://github.com/Amey-Thakur/DATA-WAREHOUSING-AND-MINING-AND-DATA-WAREHOUSING-AND-MINING-LAB
+
+Course: Data Warehousing and Mining Lab (CSL603)
+Semester: VI | Institution: Terna Engineering College | University: Mumbai
+Date: April 28, 2021
+
+============================================================================================
+AIM:
+Study of complex Data Types used in Web mining and Spatial Mining Applications.
+
+============================================================================================
+PART 1: WEB MINING
+============================================================================================
+Web mining is an application of data mining techniques to find information patterns from
+web data. It helps to improve the power of web search engines by identifying web pages
+and classifying web documents.
+
+Web mining can be broadly divided into three categories:
+
+1. Web Content Mining:
+   - Targets knowledge discovery from traditional collections of multimedia documents
+     (images, video, audio) embedded in or linked to web pages.
+   - Deals with semi-structured and unstructured data.
+   - Two approaches: Agent-based approach and Database approach.
+
+2. Web Structure Mining:
+   - Focuses on the analysis of the link structure of the web.
+   - Identifies more preferable documents based on hyperlinks (Document A -> Document B).
+   - Helps in discovering similarities between web sites or discovering web communities.
+   - Can categorize web pages and generate information like similarity and relationships.
+
+3. Web Usage Mining:
+   - Predicts user behavior while interacting with the WWW.
+   - Discovers user navigation patterns using weblog records.
+   - Useful for personalization, system improvement, site modification, and business intelligence.
+
+============================================================================================
+PART 2: SPATIAL DATA MINING
+============================================================================================
+Spatial data mining is the application of data mining to spatial models. It uses geographical
+or spatial information to produce business intelligence.
+
+Key Concepts:
+
+1. Spatial Collaboration:
+   - Associate co-existence of non-spatial features in a spatial neighborhood.
+   - Example: associating contaminated water reservoirs with certain diseases.
+   - Discovers spatial neighborhoods where feature instances collocate.
+
+2. Spatial Association:
+   - The degree to which things are similarly arranged in space.
+   - Analyzed by map overlay or spatial autocorrelation.
+   - Strong association implies similar distribution patterns of two phenomena.
+   - Useful for spatial prediction and producing regression maps.
+
+============================================================================================
+PART 3: APPLICATIONS OF WEB MINING
+============================================================================================
+
+1. Financial Data Analysis:
+   - Design and construction of data warehouses for multidimensional data analysis.
+   - Loan payment prediction and customer credit policy analysis.
+   - Classification and clustering of customers for targeted marketing.
+   - Detection of money laundering and financial crimes.
+
+2. Retail Industry:
+   - Multidimensional analysis of sales, customers, products, time, and region.
+   - Analysis of effectiveness of sales campaigns.
+   - Customer Retention.
+   - Product recommendation and cross-referencing of items.
+
+3. Telecommunication Industry:
+   - Multidimensional Analysis of Telecommunication data.
+   - Fraudulent pattern analysis.
+   - Identification of unusual patterns.
+   - Mobile Telecommunication services.
+
+4. Biological Data Analysis:
+   - Semantic integration of heterogeneous, distributed genomic and proteomic databases.
+   - Alignment, indexing, similarity search, and comparative analysis of DNA sequences.
+   - Discovery of structural patterns and analysis of genetic networks.
+
+5. Other Scientific Applications:
+   - Handling relatively small and homogeneous data sets in geosciences, astronomy, etc.
+   - Data Warehouses and data preprocessing.
+   - Graph-based mining.
+   - Visualization and domain-specific knowledge.
+
+============================================================================================
+CONCLUSION
+============================================================================================
+We understood the applications of web mining and spatial mining. We learnt the types of
+web mining (Content, Structure, Usage) and the concept of spatial association and
+collaboration.

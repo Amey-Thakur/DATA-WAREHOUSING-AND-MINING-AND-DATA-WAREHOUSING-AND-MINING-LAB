@@ -235,14 +235,17 @@ Study and implementation of Apriori Algorithm using WEKA tool for Association Ru
 <!-- =========================================================================================
                                      EXPERIMENT 10
      ========================================================================================= -->
-## Experiment 10: Advanced Data Mining
+## Experiment 10: Web Mining and Spatial Data Mining
 
-Advanced data mining techniques and visualization.
+Study of complex Data Types used in Web mining and Spatial Mining Applications.
 
-| # | Document | Description | Link |
+**Date:** April 28, 2021
+
+| # | Program | Description | Study Notes |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_DWM_Lab_Experiment-10.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_DWM_Lab_Experiment-10.docx) |
+| 1 | web_spatial_mining_study.txt | Theoretical study of Web & Spatial Mining applications | [View](Experiment-10/web_spatial_mining_study.txt) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-10/Amey_B-50_DWM_Lab_Experiment-10.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-10/Amey_B-50_DWM_Lab_Experiment-10.docx) |
 
 ---
 
