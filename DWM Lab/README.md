@@ -9,7 +9,7 @@
 
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
   [![Documents](https://img.shields.io/badge/Documents-10-yellow.svg)](#experiment-1-star-schema-for-e-commerce-data-warehouse)
-  [![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20SQL-blueviolet.svg)](./)
+  [![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20SQL-orange.svg)](./)
   [![Tools](https://img.shields.io/badge/Tools-WEKA%20%7C%20SQL-blueviolet.svg)](./)
 
   **A comprehensive collection of laboratory experiments for Data Warehousing and Mining, covering data warehouse design, OLAP operations, data preprocessing, classification, clustering, and association rule mining.**
