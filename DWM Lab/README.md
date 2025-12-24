@@ -259,7 +259,7 @@ Study of complex Data Types used in Web mining and Spatial Mining Applications.
 
 <div align="center">
 
-  ### [Data Warehousing and Mining Lab](https://github.com/Amey-Thakur/DATA-WAREHOUSING-AND-MINING-AND-DATA-WAREHOUSING-AND-MINING-LAB)
+  ### [Data Warehousing and Mining and Data Warehousing and Mining Lab](https://github.com/Amey-Thakur/DATA-WAREHOUSING-AND-MINING-AND-DATA-WAREHOUSING-AND-MINING-LAB)
 
   **CSL603 · Semester VI · Computer Engineering**
 
