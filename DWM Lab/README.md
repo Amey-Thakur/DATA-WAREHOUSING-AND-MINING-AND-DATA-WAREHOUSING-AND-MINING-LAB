@@ -252,7 +252,7 @@ Study of complex Data Types used in Web mining and Spatial Mining Applications.
 
   <br>
 
-  **[🏠 Back to Main Repository](../)**
+  🏠 **[Back to Main Repository](../)**
 
 </div>
 
