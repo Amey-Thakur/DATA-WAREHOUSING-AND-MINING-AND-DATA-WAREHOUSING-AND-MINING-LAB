@@ -240,7 +240,7 @@ The laboratory component (CSL603) focuses on hands-on implementation of data min
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [**Lab README**](DWM%20Lab/README.md) | Detailed navigation guide with program descriptions |
+| 1 | [Lab README](DWM%20Lab/README.md) | Detailed navigation guide with program descriptions |
 
 ---
 <!-- =========================================================================================
