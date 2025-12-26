@@ -5,7 +5,7 @@
 
   <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
 
-  # Data Warehousing and Mining and Data Warehousing and Mining Lab
+  # Data Warehousing and Mining and Data Warehousing and Mining Laboratory
 
   ### CSC603 & CSL603 · Semester VI · Computer Engineering
 
@@ -14,7 +14,7 @@
   [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
-  **A comprehensive academic resource for Data Warehousing and Mining (DWM) and DWM Laboratory, covering data warehouse design, OLAP operations, data mining algorithms, classification, clustering, and association rule mining.**
+  **A comprehensive academic resource for Data Warehousing and Mining (DWM) and Data Warehousing and Mining Laboratory, covering data warehouse design, OLAP operations, data mining algorithms, classification, clustering, and association rule mining.**
 
   ---
 
@@ -29,7 +29,7 @@
      ========================================================================================= -->
 ## Overview
 
-Data Warehousing and Mining (CSC603) and DWM Lab (CSL603) are core subjects in the Third Year (Semester VI) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of data warehouse architecture, ETL processes, OLAP operations, and various data mining techniques including classification, clustering, and association rule mining.
+Data Warehousing and Mining (CSC603) and Data Warehousing and Mining Laboratory (CSL603) are core subjects in the Third Year (Semester VI) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of data warehouse architecture, ETL processes, OLAP operations, and various data mining techniques including classification, clustering, and association rule mining.
 
 ### Course Topics
 
@@ -52,7 +52,7 @@ As a computer engineer, understanding data warehousing and mining techniques is 
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental DWM concepts.
-- **Academic Documentation**: To authentically document my learning journey through DWM and DWM Lab.
+- **Academic Documentation**: To authentically document my learning journey through Data Warehousing and Mining and Data Warehousing and Mining Laboratory.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
 All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
@@ -344,7 +344,7 @@ Previous year university question papers:
 ## Syllabus
 
 > **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
-> Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for DWM and DWM Lab.
+> Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Data Warehousing and Mining and Data Warehousing and Mining Laboratory.
 
 > [!IMPORTANT]
 > Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
@@ -391,7 +391,7 @@ This repository and all linked academic content are made available under the **C
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing DWM & DWM Lab.
+This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Data Warehousing and Mining & Data Warehousing and Mining Laboratory.
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
@@ -409,13 +409,13 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#data-warehousing-and-mining-and-data-warehousing-and-mining-lab)**
+  **[↑ Back to Top](#data-warehousing-and-mining-and-data-warehousing-and-mining-laboratory)**
 
   **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Laboratory](#data-warehousing-and-mining-laboratory)** &nbsp;·&nbsp; **[Mock Test](#mock-test)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
 
   <br>
 
-  **[DWM Lab](DWM%20Lab/README.md)**
+  **[Data Warehousing and Mining Laboratory](DWM%20Lab/README.md)**
 
 </div>
 
