@@ -16,7 +16,7 @@
 
   ---
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-star-schema-for-e-commerce-data-warehouse)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-dimension-tables-and-fact-table-implementation)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-olap-operations-implementation)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-decision-tree-classification-using-j-48)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-naive-bayes-classification-using-python)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-k-means-clustering-using-python)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-hierarchical-clustering-using-python)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-association-pattern-mining)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-apriori-algorithm-using-weka)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-web-mining-and-spatial-data-mining)**
+  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment 1](#experiment-1-star-schema-for-e-commerce-data-warehouse) &nbsp;·&nbsp; [Experiment 2](#experiment-2-dimension-tables-and-fact-table-implementation) &nbsp;·&nbsp; [Experiment 3](#experiment-3-olap-operations-implementation) &nbsp;·&nbsp; [Experiment 4](#experiment-4-decision-tree-classification-using-j-48) &nbsp;·&nbsp; [Experiment 5](#experiment-5-naive-bayes-classification-using-python) &nbsp;·&nbsp; [Experiment 6](#experiment-6-k-means-clustering-using-python) &nbsp;·&nbsp; [Experiment 7](#experiment-7-hierarchical-clustering-using-python) &nbsp;·&nbsp; [Experiment 8](#experiment-8-association-pattern-mining) &nbsp;·&nbsp; [Experiment 9](#experiment-9-apriori-algorithm-using-weka) &nbsp;·&nbsp; [Experiment 10](#experiment-10-web-mining-and-spatial-data-mining)
 
 </div>
 
@@ -246,9 +246,9 @@ Study of complex Data Types used in Web mining and Spatial Mining Applications.
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#data-warehousing-and-mining-lab)**
+  [↑ Back to Top](#data-warehousing-and-mining-lab)
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-star-schema-for-e-commerce-data-warehouse)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-dimension-tables-and-fact-table-implementation)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-olap-operations-implementation)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-decision-tree-classification-using-j-48)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-naive-bayes-classification-using-python)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-k-means-clustering-using-python)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-hierarchical-clustering-using-python)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-association-pattern-mining)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-apriori-algorithm-using-weka)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-web-mining-and-spatial-data-mining)**
+  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment 1](#experiment-1-star-schema-for-e-commerce-data-warehouse) &nbsp;·&nbsp; [Experiment 2](#experiment-2-dimension-tables-and-fact-table-implementation) &nbsp;·&nbsp; [Experiment 3](#experiment-3-olap-operations-implementation) &nbsp;·&nbsp; [Experiment 4](#experiment-4-decision-tree-classification-using-j-48) &nbsp;·&nbsp; [Experiment 5](#experiment-5-naive-bayes-classification-using-python) &nbsp;·&nbsp; [Experiment 6](#experiment-6-k-means-clustering-using-python) &nbsp;·&nbsp; [Experiment 7](#experiment-7-hierarchical-clustering-using-python) &nbsp;·&nbsp; [Experiment 8](#experiment-8-association-pattern-mining) &nbsp;·&nbsp; [Experiment 9](#experiment-9-apriori-algorithm-using-weka) &nbsp;·&nbsp; [Experiment 10](#experiment-10-web-mining-and-spatial-data-mining)
 
   <br>
 
@@ -260,7 +260,7 @@ Study of complex Data Types used in Web mining and Spatial Mining Applications.
 
 <div align="center">
 
-  ### [Data Warehousing and Mining and Data Warehousing and Mining Lab](https://github.com/Amey-Thakur/DATA-WAREHOUSING-AND-MINING-AND-DATA-WAREHOUSING-AND-MINING-LAB)
+  ### [Data Warehousing and Mining and Data Warehousing and Mining Lab](../)
 
   **CSL603 · Semester VI · Computer Engineering**
 
