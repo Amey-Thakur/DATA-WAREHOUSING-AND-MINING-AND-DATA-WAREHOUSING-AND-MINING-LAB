@@ -1,0 +1,62 @@
+# ALL REPOSITORIES
+# ----------------
+# General
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+*.tmp
+*.bak
+*~
+
+# Windows
+desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.log
+hs_err_pid*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# SQL / Database
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+*.ldb
+*.frm
+*.ibd
+*.myi
+*.myd
+*.log 
+# We usually keep .sql files as source code
+
+# Data Mining Datasets
+# Keep small datasets, usually .csv or .arff
+# Ignore if very large binaries
+*.gz
+*.zip
+*.tar
+
+# Git
+*.orig
