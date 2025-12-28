@@ -267,4 +267,3 @@ Study of complex Data Types used in Web mining and Spatial Mining Applications.
   *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
 
 </div>
-
