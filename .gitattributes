@@ -1,34 +1,33 @@
-# Auto detect text files and perform LF normalization
-* text=auto eol=lf
+# Data Warehousing and Mining - Academic Repository
+# Professional .gitattributes for scholarly archiving
 
-# Standard to msysgit
-*.doc	 diff=astextplain
-*.DOC	 diff=astextplain
-*.docx diff=astextplain
-*.DOCX diff=astextplain
-*.dot  diff=astextplain
-*.DOT  diff=astextplain
-*.pdf  diff=astextplain
-*.PDF	 diff=astextplain
-*.rtf	 diff=astextplain
-*.RTF	 diff=astextplain
+# Set default behavior to automatically normalize line endings
+* text=auto
 
-# Binary files
+# Ensure text and source files use LF on checkout
+*.md text eol=lf
+*.txt text eol=lf
+*.java text eol=lf diff=java
+*.py text eol=lf diff=python
+*.sql text eol=lf
+*.R text eol=lf
+*.csv text eol=lf
+*.arff text eol=lf
+*.cff text eol=lf
+LICENSE text eol=lf
+
+# Explicitly mark binary files
 *.png binary
 *.jpg binary
 *.jpeg binary
 *.gif binary
+*.pdf binary
 *.ico binary
 *.bmp binary
 *.tif binary
 *.tiff binary
-*.jar binary
-*.war binary
-*.pyc binary
-*.class binary
 
-# Source Codes
-*.java  text diff=java
-*.py    text diff=python
-*.sql   text
-*.R     text
+# Improve diff handling
+*.md text diff=markdown
+*.csv text
+*.arff text

@@ -1,36 +1,31 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# Data Warehousing and Mining - Academic Repository
+# Specialized .gitignore for data science and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
 *.code-workspace
 
-# JetBrains
-.idea/
-*.iml
-
-# Java
+# Java Build Artifacts
 *.class
 *.jar
 *.war
 *.ear
 *.nar
-*.log
 hs_err_pid*
 
-# Python
+# Python Build Artifacts
 __pycache__/
 *.py[cod]
 *$py.class
@@ -38,7 +33,7 @@ venv/
 env/
 .env
 
-# SQL / Database
+# SQL / Database Artifacts
 *.db
 *.sqlite
 *.sqlite3
@@ -48,15 +43,23 @@ env/
 *.ibd
 *.myi
 *.myd
-*.log 
-# We usually keep .sql files as source code
 
-# Data Mining Datasets
-# Keep small datasets, usually .csv or .arff
-# Ignore if very large binaries
+# Data Mining Datasets & Archives
+# We keep small datasets (.csv, .arff) as they are often lab inputs.
+# Ignore large binary archives if any.
 *.gz
 *.zip
 *.tar
+*.rar
+*.7z
 
-# Git
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.orig
