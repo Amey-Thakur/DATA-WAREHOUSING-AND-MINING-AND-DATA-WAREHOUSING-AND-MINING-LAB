@@ -7,9 +7,9 @@
 
   ### CSL603 · Semester VI · Computer Engineering
 
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
-  [![Documents](https://img.shields.io/badge/Documents-10-yellow.svg)](#experiment-1-star-schema-for-e-commerce-data-warehouse)
-  [![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20SQL-orange.svg)](./)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
+  [![Documents](https://img.shields.io/badge/Documents-10-3949AB.svg)](#experiment-1-star-schema-for-e-commerce-data-warehouse)
+  [![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20SQL-8250DF.svg)](./)
   [![Tools](https://img.shields.io/badge/Tools-WEKA%20%7C%20SQL-blueviolet.svg)](./)
 
   **A comprehensive collection of laboratory experiments for Data Warehousing and Mining, covering data warehouse design, OLAP operations, data preprocessing, classification, clustering, and association rule mining.**
@@ -267,3 +267,4 @@ Study of complex Data Types used in Web mining and Spatial Mining Applications.
   *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
 
 </div>
+

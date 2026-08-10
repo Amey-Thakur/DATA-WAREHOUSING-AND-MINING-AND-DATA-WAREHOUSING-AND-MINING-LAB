@@ -10,9 +10,9 @@
   ### CSC603 & CSL603 · Semester VI · Computer Engineering
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
-  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-E8710A.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   **A comprehensive academic resource for Data Warehousing and Mining (DWM) and Data Warehousing and Mining Laboratory, covering data warehouse design, OLAP operations, data mining algorithms, classification, clustering, and association rule mining.**
 
@@ -118,10 +118,10 @@ The laboratory component (CSL603) focuses on hands-on implementation of data min
 
 <div align="center">
 
-  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](DWM%20Lab/)
-  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](DWM%20Lab/)
-  [![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20SQL-orange.svg)](DWM%20Lab/)
-  [![Focus](https://img.shields.io/badge/Focus-Data%20Mining-blueviolet.svg)](DWM%20Lab/)
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-3949AB.svg)](DWM%20Lab/)
+  [![Status](https://img.shields.io/badge/Status-Complete-2EA043.svg)](DWM%20Lab/)
+  [![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20SQL-8250DF.svg)](DWM%20Lab/)
+  [![Focus](https://img.shields.io/badge/Focus-Data%20Mining-BF3989.svg)](DWM%20Lab/)
 
 </div>
 
@@ -431,3 +431,4 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
+
