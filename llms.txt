@@ -1,0 +1,41 @@
+# Data Warehousing and Mining and Data Warehousing and Mining Laboratory
+
+> CSC603: Data Warehousing and Mining [DWM] & CSL603: Data Warehousing and
+> Mining Lab [DWM Lab] | TE Semester VI | Computer Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Third Year, Semester VI
+Course codes: CSC603, CSL603
+Licence: CC BY 4.0, attribution required
+Repository created: 28 July 2021
+Work dated: 28 August 2021
+
+## What is in this repository
+
+- Assignments, 4 files
+- DWM Lab, 36 files
+- Internal Assessment Test, 5 files
+- Question Papers, 32 files
+- Reference Books, 10 files
+- Semester Exam, 8 files
+- Syllabus, 2 files
+- Blueprint (DWM).png
+- Computer Semester 6 Timetable.pdf
+- SEMESTER VI.jpeg
+- Technical Mock Test- For Terna Engineering College by Campus Corners!.pdf
+
+## Subject terms
+
+apriori-algorithm, computer-engineering, computer-science, data-analytics,
+data-mining, data-mining-algorithms, data-warehouse-architecture,
+data-warehousing, data-warehousing-and-data-mining, decision-trees,
+engineering, k-means-clustering, textbooks, university-of-mumbai, weka
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/DATA-WAREHOUSING-AND-MINING-AND-DATA-WAREHOUSING-AND-MINING-LAB
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
